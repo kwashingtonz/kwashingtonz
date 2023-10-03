@@ -1,9 +1,3 @@
-<!-- [![MasterHead]https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif)](https://github.com/kwashingtonz) -->
-
-<div id="header" align="center">
-  <img src="https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif" width="750" height="200"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Kalindu</h1>
 
 <div align="center"> 
