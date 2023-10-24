@@ -6,7 +6,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwashingtonz&label=Profile%20views&color=0e75b6&style=flat" alt="kwashingtonz" /> </p>
 
-- 🌱 I’m currently learning @ ****NIBM****
+- 🌱 I’m currently an Undergraduate @ ****NIBM****
 
 - 👨‍💻 All of my projects are available at [Click Me!](https://github.com/kwashingtonz?tab=repositories)
 
